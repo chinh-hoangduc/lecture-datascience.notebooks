@@ -38,9 +38,9 @@ dependencies:
   - libbrotlidec=1.2.0
   - libbrotlienc=1.2.0
   - libcblas=3.9.0
-  - libcxx=21.1.5
+  # - libcxx=21.1.5
   - libdeflate=1.25
-  - libedit=3.1.20250104
+  # - libedit=3.1.20250104
   - libexpat=2.7.1
   - libffi=3.5.2
   - libfreetype=2.14.1
@@ -66,7 +66,7 @@ dependencies:
   - matplotlib-base=3.10.7
   - matplotlib-inline=0.2.1
   - munkres=1.1.4
-  - ncurses=6.5
+  # - ncurses=6.5
   - nest-asyncio=1.6.0
   - nodejs=24.4.1
   - numexpr=2.14.1
@@ -96,7 +96,7 @@ dependencies:
   - pytz=2025.2
   - pyzmq=27.1.0
   - qhull=2020.2
-  - readline=8.2
+  # - readline=8.2
   - scikit-learn=1.7.2
   - scipy=1.16.3
   - setuptools=80.9.0
